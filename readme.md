@@ -4,7 +4,7 @@
   <h3>Your AI-Powered Career Compass 🧭</h3>
   <p>Revolutionizing career guidance with 3D roadmaps, personalized AI agents, and real-time mentorship.</p>
 
-  [**Live Demo**](https://www.clarioo.live/auth) | [**Report Bug**](https://github.com/ronitrai27/clario-career_platform/issues) | [**Request Feature**](https://github.com/ronitrai27/clario-career_platform/issues)
+  [**Live Demo**](https://www.clarioo.live/auth)
 </div>
 
 ---
