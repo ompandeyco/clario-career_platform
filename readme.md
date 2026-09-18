@@ -98,5 +98,5 @@ This project is licensed under the MIT License.
 ---
 
 <div align="center">
-  <p>Made with ❤️ for the Hackathon BY ROX.</p>
+  <p>Made with ❤️ for the Hackathon BY OM.</p>
 </div>
